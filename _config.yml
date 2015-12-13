@@ -1,0 +1,35 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: /:year/:title/
+# relative_permalinks: true
+
+# Setup
+title: pyk
+tagline: distsys & machine learning
+url: https://pyk.github.io
+paginate: 5
+baseurl: ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# About/contact
+author:
+  name: Bayu Aldi Yansyah
+  url: https://twitter.com/peeyek
+  github: https://github.com/pyk
+  email: bayualdiyansyah@gmail.com
+
+gems: [jekyll-paginate]
