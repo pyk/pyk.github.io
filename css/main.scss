@@ -26,3 +26,11 @@
 @import "posts";
 @import "pagination";
 @import "message";
+
+/* fix extra margin */
+figure.highlight {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 1rem;
+}
