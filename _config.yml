@@ -13,7 +13,7 @@ permalink: /:year/:title/
 
 # Setup
 title: pyk
-tagline: distsys & machine learning
+tagline: math, distsys & machine learning
 url: https://pyk.github.io
 paginate: 5
 baseurl: ""
@@ -32,4 +32,5 @@ author:
   github: https://github.com/pyk
   email: bayualdiyansyah@gmail.com
 
+#gems: [jekyll-paginate, jekyll-gist]
 gems: [jekyll-paginate]
