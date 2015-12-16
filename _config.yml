@@ -32,5 +32,4 @@ author:
   github: https://github.com/pyk
   email: bayualdiyansyah@gmail.com
 
-#gems: [jekyll-paginate, jekyll-gist]
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-gist]
