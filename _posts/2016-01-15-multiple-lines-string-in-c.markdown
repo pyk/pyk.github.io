@@ -6,13 +6,15 @@ categories: c
 ---
 There are two ways of splitting `char *` variable in mupltiple lines.
 
-    /* the first one */
-    char *str1 = "line 1\n \
-    line 2";
+{% highlight c %}
+/* the first one */
+char *str1 = "line 1\n \
+line 2";
 
-    /* the second one */
-    char *str2 = "line 1\n"
-                 "line 2";
+/* the second one */
+char *str2 = "line 1\n"
+             "line 2";
+{% endhighlight %}
 
 I like the second one.
 
