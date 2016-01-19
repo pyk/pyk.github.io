@@ -7,7 +7,7 @@ categories: c
 
 Compiling C program using `-std` option will save me from a bunch of problems about portability of my program. I use `C99` standart, since `C11` is not widely implemented yet.
 
-{% highlight shell %}
+{% highlight sh %}
 CC -std=c99 -pedantic -Wall -Werror -o program program.c
 {% endhighlight %}
 
@@ -15,7 +15,7 @@ Sometimes I need a function definitions that are not specified in ISO C standart
 
 Naturally `-std=c99` option will force a system headers to only expose a definitions that valid in ISO C99 standarts, and it's good. Compiling a program that include a system header and use a functions that are not specified in the standart will yield the following errors:
 
-{% highlight shell %}
+{% highlight sh %}
 % CC=clang-3.7 make
 clang-3.7 -std=c99 -pedantic -Wall -Werror -o hostinfo hostinfo.c
 hostinfo.c:58:21: error: variable has incomplete type 'struct addrinfo'
