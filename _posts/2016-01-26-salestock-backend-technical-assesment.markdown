@@ -20,5 +20,5 @@ So, I decided to working on it and here it is the [result][res]. After I submit 
 The recruiters only say that my submission is good. Wondering if they are ever really read my code.
 
 [ss]: https://salestockindonesia.com
-[c]: commit
+[c]: https://github.com/pyk/salestock-backend-ta/tree/f2e59cee19bbedf15917f9f74e4c5ab298a66d52
 [res]: https://github.com/pyk/salestock-backend-ta
