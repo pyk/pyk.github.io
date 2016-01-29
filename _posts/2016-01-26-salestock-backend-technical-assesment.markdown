@@ -13,7 +13,7 @@ For me, they are not responsive. I got reply after 2 days. It make me feel like
 
 "OK, YOU GUYS ARE CALL ME AND TOLD ME TODO THIS. I WILL NOT working on this if you are not responding my questions"
 
-But, I'm afraid at the same time. I'm afraid that I became a person who can hold their words. Because, I say to the recruiters who call me that I'm going to do their assesment.
+But, I'm afraid at the same time. I'm afraid that I became a person who can't hold their words. Because, I say to the recruiters who call me that I'm going to do their assesment.
 
 So, I decided to working on it and here it is the [result][res]. After I submit my work, the recruiter call me that I passed their backend technical assesment a few hours later.
 
