@@ -17,7 +17,7 @@ struct Node {
 }
 {% endhighlight %}
 
-Then you can use `{:?}` argument type to request `Display` traits from struct `Node`.
+Then you can use `{:?}` argument type to request `Debug` traits from struct `Node`.
 
 {% highlight rust %}
 let n1 = Node{index: 1, data: "Node 1"};
