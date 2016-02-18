@@ -11,7 +11,7 @@ categories: c
     <br>
     I take the offer from Sale Stock Indonesia to be their Jr. Data Scientist.
     <br>
-    Start from 22 February 2016 I will join the Data Science Departement at Sale Stock Indonesia. 
+    Start from 15 February 2016 I will join the Data Science Departement at Sale Stock Indonesia. 
     <br>
     Also, It turns out that at saturday dan sunday they off from work. That's why they are not responding my email.
 </p>
