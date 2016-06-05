@@ -21,7 +21,7 @@ By default, C compiler is doesn't care if you use `printf` correctly or not. The
 int
 main()
 {
-    char *a = "string"
+    char *a = "string";
     printf(a);
 }
 {% endhighlight %}
@@ -41,7 +41,7 @@ The code above seems safe, but it give us unpredictable consequences if `a` cont
 int
 main()
 {
-    char *a = "string %d"
+    char *a = "string %d";
     printf(a);
 }
 {% endhighlight %}
@@ -61,7 +61,7 @@ So, the correct way to use `printf` is **always** define a format string explici
 int
 main()
 {
-    char *a = "string %d"
+    char *a = "string %d";
     printf("%s", a);
 }
 {% endhighlight %}
