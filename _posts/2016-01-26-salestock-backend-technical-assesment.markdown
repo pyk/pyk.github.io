@@ -2,7 +2,7 @@
 layout: post
 title:  "Sale Stock Backend Technical Assesment"
 date:   2016-01-26 21:36:59 +0700
-categories: c
+categories: personal
 ---
 
 <p class="message">
@@ -11,7 +11,7 @@ categories: c
     <br>
     I take the offer from Sale Stock Indonesia to be their Jr. Data Scientist.
     <br>
-    Start from 15 February 2016 I will join the Data Science Departement at Sale Stock Indonesia. 
+    Start from 15 February 2016 I will join the Data Science Departement at Sale Stock Indonesia.
     <br>
     Also, It turns out that at saturday dan sunday they off from work. That's why they are not responding my email.
 </p>
@@ -20,7 +20,7 @@ I passed the [Salestock][ss] backend technical assesment.
 
 This [commit][c] will exactly tell you how I felt at that time.
 
-For me, they are not responsive. I got reply after 2 days. It make me feel like 
+For me, they are not responsive. I got reply after 2 days. It make me feel like
 
 "Ok, You guys are contact me and told me todo this. I will not working on this if you are not responding my questions"
 
