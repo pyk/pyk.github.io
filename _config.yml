@@ -13,7 +13,7 @@ permalink: /:year/:title/
 
 # Setup
 title: pyk
-tagline: math, data science & machine learning
+tagline: deep learning & natural language processing
 url: https://pyk.github.io
 paginate: 5
 baseurl: ""
