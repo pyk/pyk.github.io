@@ -11,7 +11,7 @@ When I use the following command to start developing locally:
 
 {% highlight sh %}
 sam local start-api
-{% highlight %}
+{% endhighlight %}
 
 If you previously run build, the reload server will not work. 
 
@@ -19,7 +19,7 @@ Use the following command to force AWS SAM use your local version, not a build v
 
 {% highlight sh %}
 sam local start-api -t template.yaml
-{% highlight %}
+{% endhighlight %}
 
 If you changes your function, your server will be automatically reloaded.
 
@@ -29,7 +29,7 @@ Use the following command to speed up the local server:
 
 {% highlight sh %}
 sam local start-api -t template.yaml --skip-pull-image
-{% highlight %}
+{% endhighlight %}
 
 This option `--skip-pull-image` will skip docker pulling image on every request.
 
