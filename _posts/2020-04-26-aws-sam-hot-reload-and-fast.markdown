@@ -7,7 +7,7 @@ categories: aws, aws lambda, aws sam, serverless
 
 This is myfirst time using AWS Lambda development tool.
 
-When I use the following command to start developing locally:
+I use the following command to start the development server locally:
 
 {% highlight sh %}
 sam local start-api
